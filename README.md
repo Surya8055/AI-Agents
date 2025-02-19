@@ -6,6 +6,7 @@
   <li>Health Coach AI Agent: Provides personalized fitness and diet recommendations.</li>
   
   <li>Job Recommending AI Agent: Suggests jobs based on user skills and experience.</li>
+  
 </ul>
 <p>This guide is designed for beginners and explains every step in detail, assuming no prior AI knowledge.</p>
 
